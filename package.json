@@ -1,0 +1,16 @@
+{
+  "name": "shop_api",
+  "version": "1.0.0",
+  "description": "shop api backend server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kim Jeong Kyun",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
+}
